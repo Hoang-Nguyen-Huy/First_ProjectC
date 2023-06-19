@@ -1,0 +1,8 @@
+Đăng nhập. (phong)
+  + Đăng kí.(phong)
+  + Tìm kiếm bài hát. (tai)
+  + Thêm/Xóa bài hát khỏi danh sách chờ. ( nguyen le)
+  + Nghe nhạc.(nguyen hoang)
+  + Tạo playlist.(phong)
+  + Thêm/Xóa bài hát khỏi playlist. ( phong )
+design UXUI ( dvi ) 	 
